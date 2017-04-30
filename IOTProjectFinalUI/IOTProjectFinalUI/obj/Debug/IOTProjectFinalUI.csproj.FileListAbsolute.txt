@@ -1,0 +1,9 @@
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\bin\Debug\IOTProjectFinalUI.exe.config
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\bin\Debug\IOTProjectFinalUI.exe
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\bin\Debug\IOTProjectFinalUI.pdb
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\obj\Debug\IOTProjectFinalUI.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\obj\Debug\IOTProjectFinalUI.Form1.resources
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\obj\Debug\IOTProjectFinalUI.Properties.Resources.resources
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\obj\Debug\IOTProjectFinalUI.csproj.GenerateResource.Cache
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\obj\Debug\IOTProjectFinalUI.exe
+C:\Users\Conor\Desktop\iotFinalProject\IOTProjectFinalUI\IOTProjectFinalUI\obj\Debug\IOTProjectFinalUI.pdb
